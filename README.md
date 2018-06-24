@@ -1,4 +1,6 @@
 # Gardion - make it your internet
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgardion%2Fios-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgardion%2Fios-app?ref=badge_shield)
+
 
 [Gardion](https://www.gardion.com) helps families and teams to customize the internet they want (https://www.gardion.com).
 Gardion ist built to be the most robust, trustworthy and easy to use VPN+ solution for this demographic.
@@ -21,5 +23,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## License
 
 This project is licensed under the GNU AGPLv3 License - see the [LICENSE.txt](LICENSE.txt) file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fgardion%2Fios-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fgardion%2Fios-app?ref=badge_large)
 
 ## Acknowledgments
